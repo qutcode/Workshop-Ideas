@@ -25,7 +25,7 @@ Adam Hibble
 
 ## When? 
 
-From week ~6 I'll find out what dates best suits people who are interested
+From week ~4-6 I'll find out what dates best suits people who are interested
 
 ## Where
 
