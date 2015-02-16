@@ -2,7 +2,7 @@
 
 ## What?
 
-This is an introduction to C, very much suitable for students commencing with CAB202. Both Jay and Adam have high distinctions
+This is an introduction to C, very much suitable for students commencing with CAB202. Both Jay and Adam have achieved highly
 in the microprocessing unit. 
 
 
