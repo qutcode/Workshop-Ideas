@@ -29,7 +29,7 @@ From week ~4-6 I'll find out what dates best suits people who are interested
 
 ## Where
 
-I'll book out a room and GP Campus
+I'll book out a room at GP Campus
 
 ## Extra
 
