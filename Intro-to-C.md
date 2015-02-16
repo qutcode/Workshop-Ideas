@@ -2,7 +2,7 @@
 
 ## What?
 
-This is an introduction to C, very much suitable for students commencing with CAB202. Both Jay and Adam have achieved highly
+This is an introduction to C, very much suitable for students commencing with CAB202. Both Jeremy and Adam have achieved highly
 in the microprocessing unit. 
 
 
@@ -13,7 +13,7 @@ Just show up! We will fill the gaps.
 
 ## Who is running it?
 
-Jay Richard, Adam Hibble
+Jeremy Pearson, Adam Hibble
 
 ## When? 
 
